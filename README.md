@@ -97,9 +97,10 @@ MIT — will be added at first release.
 
 ## 👤 Author
 
-**Howie** — Director of Software R&D @ CYGIA (Changyuan Group)
-- 🏭 10+ years building industrial-grade automation & testing systems
-- 🤖 Now bringing that discipline to AI agent systems
+**Howie** — Founder @ [Yaocheng Software](https://github.com/hongweiduan)
+- 🚀 Currently building industrial software + AI agent systems at Yaocheng Software
+- 🏭 Former Director of Software R&D @ CYGIA (Changyuan Group)
+- 🤖 10+ years bringing industrial-grade discipline to software & AI
 - 📧 [GitHub](https://github.com/hongweiduan) · [Profile](https://github.com/hongweiduan)
 
 ---
